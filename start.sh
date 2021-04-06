@@ -1,3 +1,5 @@
+apt install vim
+curl https://raw.githubusercontent.com/qnkhuat/scripts/master/.vimrc -o ~/.vimrc
 # Load datset
 mkdir datasets
 echo "Download dataset"
