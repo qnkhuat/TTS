@@ -1,3 +1,5 @@
+git config --global user.email "qn.khuat@gmail.com"
+git config --global user.name "Ngoc Khuat"
 apt install vim
 curl https://raw.githubusercontent.com/qnkhuat/scripts/master/.vimrc -o ~/.vimrc
 # Load datset
