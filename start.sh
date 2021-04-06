@@ -10,5 +10,6 @@ cd datasets/
 tar -xf LJSpeech-1.1.tar.bz2
 
 # Install dependencies
+apt-get install espeak-ng
 cd .. 
 pip3 install -e .
